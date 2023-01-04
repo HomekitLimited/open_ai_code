@@ -89,7 +89,7 @@ body {
 .message {
   flex: 1;
 
-  color: #b9b9b9;
+  color: #262626;
   font-size: 20px;
 
   max-width: 100%;
@@ -204,7 +204,7 @@ form img {
 
 .img-limi{
   width:100px;
-  margin-top: -406px;
+  margin-top: -394px;
   margin-left: 1250px;
 }
 
