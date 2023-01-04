@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #ffffff;
+  background: #e9e9e9;
 }
 
 .chat {
@@ -69,7 +69,7 @@ body {
   height: 36px;
   border-radius: 5px;
 
-  background: #5436DA;
+  background: #6884ff;
 
   display: flex;
   justify-content: center;
@@ -89,7 +89,7 @@ body {
 .message {
   flex: 1;
 
-  color: #000000;
+  color: #b9b9b9;
   font-size: 20px;
 
   max-width: 100%;
@@ -115,9 +115,9 @@ body {
 form {
   width: 100%;
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 20px;
   padding: 10px;
-  background: #e6e6e6;
+  background: #f4f4f4;
 
   display: flex;
   flex-direction: row;
@@ -147,4 +147,75 @@ button {
 form img {
   width: 30px;
   height: 30px;
+}
+
+.img-logo{
+  width:260px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+#txt-logo{
+  width: 250px;
+  margin-left: 70px;
+  font-size: 14px;
+}
+
+#txt-titl{
+  margin-left: 700px;
+  font-size: 36px;
+}
+
+.img-capa{
+  width:100px;
+  margin-top: 100px;
+  margin-left: 450px;
+}
+
+#txt-capT{
+  width: 300px;
+  margin-left: 430px;
+  font-size: 25px;
+}
+
+#txt-capa{
+  width: 300px;
+  margin-left: 360px;
+  font-size: 20px;
+}
+
+.img-exam{
+  width:100px;
+  margin-top: -282px;
+  margin-left: 850px;
+}
+
+#txt-exam{
+  width: 300px;
+  margin-left: 760px;
+  font-size: 20px;
+}
+
+#txt-exaT{
+  width: 300px;
+  margin-left: 844px;
+  font-size: 25px;
+}
+
+.img-limi{
+  width:100px;
+  margin-top: -406px;
+  margin-left: 1250px;
+}
+
+#txt-limT{
+  width: 300px;
+  margin-left: 1236px;
+  font-size: 25px;
+}
+
+#txt-limi{
+  width: 300px;
+  margin-left: 1160px;
+  font-size: 20px;
 }
