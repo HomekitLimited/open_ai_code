@@ -219,3 +219,27 @@ form img {
   margin-left: 1120px;
   font-size: 20px;
 }
+
+
+
+.text-center {
+  text-align: center ;
+}
+
+.pt-1\/6, .py-1\/6 {
+  padding-top: 0.2rem ;
+}
+
+.pb-0\.125, .py-0\.125 {
+  padding-bottom: 0.2rem ;
+}
+
+.bg-fg-7\.5 {
+  background-color: rgba(0,0,0,0.075);
+  background-color: rgba(var(--fg), 0.075);
+}
+
+:root {
+  --fg: 0, 0, 0;
+  --bg: 255, 255, 255;
+}
